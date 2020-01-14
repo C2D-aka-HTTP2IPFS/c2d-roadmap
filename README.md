@@ -15,5 +15,9 @@
 
 > [Distributed Permanent Web](https://www.youtube.com/watch?v=EClPAFPeXIQ) - 【New Societal Infrastructure】
 
+### Perspectives
+
+- [voidao: IPFS@DW](https://mhf.edening.net/2019/02/12/IPFS@DW.html)
+
 ---------
 ### [Philosophy](https://github.com/C2D-aka-HTTP2IPFS/c2d/blob/master/README.md#philosophy)
