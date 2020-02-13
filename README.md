@@ -19,5 +19,13 @@
 
 - [voidao: IPFS@DW](https://mhf.edening.net/2019/02/12/IPFS@DW.html)
 
+### Goals
+- [c2d-iSeek: Portal for seeking content via the IPFS distributed web.](https://github.com/C2D-aka-HTTP2IPFS/c2d-iSeek)
+- [HTTP2IPFS Transporter - Vedio]()
+- [HTTP2IPFS Transporter - Audio ]()
+- [HTTP2IPFS Transporter - Image]()
+- [HTTP2IPFS Transporter - Website(Static)]()
+- [HTTP2IPFS Transporter - Website(Dynamic)]()
+
 ---------
 ### [Philosophy](https://github.com/C2D-aka-HTTP2IPFS/c2d/blob/master/README.md#philosophy)
