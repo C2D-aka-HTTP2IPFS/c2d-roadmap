@@ -25,16 +25,18 @@
 
 ### Perspectives
 
+- [iMemex: Memex on IPFS](https://github.com/snspace/memex)
 - [voidao: IPFS@DW](https://mhf.edening.net/2019/02/12/IPFS@DW.html)
+- [WAY(Working As Yourself)](https://github.com/Edening/WAY)  ***『Internet content accessisbility is a key pillar???』***
 
 ### Goals
 - [c2d-iSeek: Portal for seeking content via the IPFS distributed web.](https://github.com/C2D-aka-HTTP2IPFS/c2d-iSeek)
-- [HTTP2IPFS Transporter - Video]()
-- [HTTP2IPFS Transporter - Audio ]()
-- [HTTP2IPFS Transporter - Image]()
-- [HTTP2IPFS Transporter - Website(Static)]()
-- [HTTP2IPFS Transporter - Website(Dynamic)]()
-- [Accessibility&Availabililty(to people under bad internet conditions)]()
+- [HTTP2IPFS Transporter - Video](https://github.com/C2D-aka-HTTP2IPFS/c2d-roadmap/#goals)
+- [HTTP2IPFS Transporter - Audio ](https://github.com/C2D-aka-HTTP2IPFS/c2d-roadmap/#goals)
+- [HTTP2IPFS Transporter - Image](https://github.com/C2D-aka-HTTP2IPFS/c2d-roadmap/#goals)
+- [HTTP2IPFS Transporter - Website(Static)](https://github.com/C2D-aka-HTTP2IPFS/c2d-roadmap/#goals)
+- [HTTP2IPFS Transporter - Website(Dynamic)](https://github.com/C2D-aka-HTTP2IPFS/c2d-roadmap/#goals)
+- [Accessibility&Availabililty(to people under bad internet conditions)](https://github.com/C2D-aka-HTTP2IPFS/c2d-roadmap/#goals)
 
 ---
 ### [Philosophy](https://github.com/C2D-aka-HTTP2IPFS/c2d/blob/master/README.md#philosophy)
