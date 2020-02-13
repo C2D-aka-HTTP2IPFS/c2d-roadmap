@@ -15,7 +15,7 @@
 
 > Unfortunately, it’s built on a very fragile infrastructure …HTTP, DNS, …, Centralized Storage&Services, …
 
-> Think! … What if the backbone is broken? …Google? WikiPedia? … ***『Ever in places like Mainland China???』***
+> Think! … What if the backbone is broken? …Google? WikiPedia? … ***『Ever in places like Mainland China!!!』***
 
 > Social Medias? (Who stands for You?)…Ads, Junk messages, …Needle in the Ocean of Information, Lost Yourself?
 
