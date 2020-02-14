@@ -31,7 +31,7 @@
 
 ### Goals
 - [c2d-iSeek: Portal for seeking content via the IPFS distributed web.](https://github.com/C2D-aka-HTTP2IPFS/c2d-iSeek)
-- [HTTP2IPFS Transporter - Video](https://github.com/C2D-aka-HTTP2IPFS/c2d-roadmap/#goals)
+- [HTTP2IPFS Transporter - Video](https://github.com/C2D-aka-HTTP2IPFS/c2d-video-ibipfs.js)
 - [HTTP2IPFS Transporter - Audio ](https://github.com/C2D-aka-HTTP2IPFS/c2d-roadmap/#goals)
 - [HTTP2IPFS Transporter - Image](https://github.com/C2D-aka-HTTP2IPFS/c2d-roadmap/#goals)
 - [HTTP2IPFS Transporter - Website(Static)](https://github.com/C2D-aka-HTTP2IPFS/c2d-roadmap/#goals)
