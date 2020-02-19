@@ -25,7 +25,7 @@
 
 ### Perspectives
 
-- [iMemex: Memex on IPFS](https://github.com/snspace/memex)
+- [iMemex](https://github.com/iMemex): [ipfs](https://github.com/ipfs) powered [Memex](https://github.com/snspace/memex)
 - [voidao: IPFS@DW](https://mhf.edening.net/2019/02/12/IPFS@DW.html)
 - [WAY(Working As Yourself)](https://github.com/Edening/WAY)  ***『Internet content accessisbility is a key pillar!!!』***
 
