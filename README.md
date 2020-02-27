@@ -1,15 +1,14 @@
 # C2D-aka-HTTP2IPFS Project Roadmap
 
 > The blueprint for the C2D-aka-HTTP2IPFS project.
----
+
 ### Table of Contents
----
 - [Why](https://github.com/C2D-aka-HTTP2IPFS/c2d-roadmap/#why)
 - [Perspectives](https://github.com/C2D-aka-HTTP2IPFS/c2d-roadmap/#perspectives)
 - [Goals](https://github.com/C2D-aka-HTTP2IPFS/c2d-roadmap/#goals)
 - [Philosophy](https://github.com/C2D-aka-HTTP2IPFS/c2d-roadmap/#philosophy)
-
 ---
+
 ### Why
 > We have been using the Internet for everything …
 
